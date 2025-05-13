@@ -4,7 +4,7 @@ import ProtectedLayout from '@/layouts/protected-layout';
 import Login from '@/pages/auth/login';
 import Register from '@/pages/auth/register';
 import Contact from '@/pages/contact';
-import Home from '@/pages/home';
+import Home from '@/pages/Home';
 import AdminRoute from '@/components/adminRoute';
 import PrivateRoute from '@/components/privateRoute';
 import Profile from '@/pages/protected/profile';
