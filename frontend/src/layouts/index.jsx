@@ -2,7 +2,7 @@ import { useEffect } from 'react';
 import { useDispatch } from 'react-redux';
 import { useGetMeQuery } from '@/features/auth/authApi';
 import { setCredentials } from '@/features/auth/authSlice';
-import Container from '@/components/container';
+import Container from '@/components/Container';
 import Footer from '@/components/footer';
 import Header from '@/components/header';
 import { Outlet } from 'react-router';
